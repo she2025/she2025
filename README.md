@@ -1,11 +1,11 @@
 # Hey there! I'm Shihan 👋
 
-I am a Machine Learning Engineer specializing in AI Engineering and Generative AI. I thrive on solving complex problems by blending my academic background in Mathematics and Operations Research with hands-on technical skills. I am passionate about the entire ML lifecycle, from data pipelines and model development to deployment and monitoring.
+I am a Machine Learning Engineer specializing in AI Engineering and Generative AI. I thrive on solving complex problems by blending my academic background in Mathematics and Computer Science with hands-on technical skills. I am passionate about the entire ML lifecycle, from data pipelines and model development to deployment and monitoring.
 
 <br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/shihan-he/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://your-portfolio-website.com/">
@@ -22,8 +22,8 @@ I am a Machine Learning Engineer specializing in AI Engineering and Generative A
 - 👯 I’m looking to collaborate on open-source projects related to data science or ethical AI.
 - 🤔 I’m looking for help with optimizing high-performance search queries in distributed systems.
 - 💬 Ask me about: **Python, R, MLOps, Generative AI, or ancient history!**
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)!
-- 😄 Pronouns: **[Your Pronouns, e.g., She/Her]**
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/shihan-he/)!
+- 😄 Pronouns: **[She/Her]**
 - ⚡ Fun fact: I have a deep interest in Greek mythology, especially the figures from the Trojan War.
 
 ---
